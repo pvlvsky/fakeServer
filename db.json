@@ -1,0 +1,85 @@
+{
+    "food":
+    [
+        {
+            "id": 1,
+            "title": "Ветчина и грибы",
+            "description": "Пицца с ветчиной и грибами очень вкусная, как дома",
+            "category": "pizza",
+            "price": 123
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id1.png?raw=true"
+        },
+        {
+            "id": 2,
+            "title": "Пепперони",
+            "description": "Пицца с колбасками пепперони, томатный соус",
+            "category": "pizza",
+            "price": 345
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id2.png?raw=true"
+        },
+        {
+            "id": 3,
+            "title": "Большой мексиканец",
+            "description": "Острый бургер с тремя котлетами",
+            "category": "burger",
+            "price": 678
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id3.png?raw=true"
+        },
+        {
+            "id": 4,
+            "title": "Крапсбургер",
+            "description": "Тот самый бургер из мультфильма",
+            "category": "burger",
+            "price": 901
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id14.png?raw=true"
+        },
+        {
+            "id": 5,
+            "title": "Паста с курицей",
+            "description": "Паста с курицей и все!",
+            "category": "pasta",
+            "price": 234
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id5.png?raw=true"
+        },
+        {
+            "id": 6,
+            "title": "Паста по-флотски",
+            "description": "Паста с говяжим фаршем, томатами чери и острым соусом",
+            "category": "pasta",
+            "price": 567
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id6.png?raw=true"
+        },
+        {
+            "id": 7,
+            "title": "Чизкейк",
+            "description": "Творожный торт, с клубничным топпингом",
+            "category": "dessert",
+            "price": 890
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id7.png?raw=true"
+        },
+        {
+            "id": 8,
+            "title": "Мороженое со страчателлой",
+            "description": "3 шарика вкуснейшего мороженного",
+            "category": "dessert",
+            "price": 123
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id8.png?raw=true"
+        },
+        {
+            "id": 9,
+            "title": "Кофе",
+            "description": "Эспрессо или Американно, возможно Флет Уайт",
+            "category": "drinks",
+            "price": 456
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id9.png?raw=true"
+        },
+        {
+            "id": 10,
+            "title": "Сок в ассортименте",
+            "description": "Яблочный/Апельсиновый/Мультифрукт",
+            "category": "drinks",
+            "price": 789
+            "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id10.png?raw=true"
+        },
+    ]
+}
