@@ -22,7 +22,7 @@
                 "id": 3,
                 "title": "Большой мексиканец",
                 "description": "Острый бургер с тремя котлетами",
-                "category": "burger",
+                "category": "combo",
                 "price": 678,
                 "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id3.png?raw=true"
             },
@@ -30,7 +30,7 @@
                 "id": 4,
                 "title": "Крапсбургер",
                 "description": "Тот самый бургер из мультфильма",
-                "category": "burger",
+                "category": "combo",
                 "price": 901,
                 "imageUrl": "https://github.com/pvlvsky/fakeServer/tree/origin/pictures/id14.png?raw=true"
             },
